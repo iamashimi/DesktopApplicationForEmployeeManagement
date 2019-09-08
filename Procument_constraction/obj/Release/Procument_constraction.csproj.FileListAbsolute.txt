@@ -1,0 +1,9 @@
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\bin\Release\Procument_constraction.exe.config
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\bin\Release\Procument_constraction.exe
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\bin\Release\Procument_constraction.pdb
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.Form1.resources
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.Form2.resources
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.Properties.Resources.resources
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.csproj.GenerateResource.Cache
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.exe
+C:\Users\Ashimi\Visual Studio 2012\Procument_constraction\Procument_constraction\obj\Release\Procument_constraction.pdb
